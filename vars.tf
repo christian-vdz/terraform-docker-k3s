@@ -10,6 +10,6 @@ variable "k3s_cluster" {
     name         = "k3s-cluster"
     image        = "rancher/k3s"
     image_tag    = "latest" # from https://hub.docker.com/r/rancher/k3s/tags
-    worker_count = 25
+    worker_count = 2
   })
 }
