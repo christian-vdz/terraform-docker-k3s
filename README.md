@@ -2,8 +2,6 @@
 
 This repository contains the Terraform code to deploy a cluster K3s using Docker containers on your local machine.
 
-Terraform is configured to use an s3 backend (`backend.tf`).
-
 ## Requirements
 
 In order to run this Terraform code, a few things are required:
