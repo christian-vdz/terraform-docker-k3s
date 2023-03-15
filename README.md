@@ -10,11 +10,11 @@ In order to run this Terraform code, a few things are required:
 
 ## Execute Terraform
 
-Run `tf init` to initialize the working directory and download all required providers or modules.
+Run `terraform init` to initialize the working directory and download all required providers or modules.
 
-Run `tf plan` to preview the changes that Terraform will make if the `tf apply` is ran.
+Run `terraform plan` to preview the changes that Terraform will make if the `terraform apply` is ran.
 
-Run `tf apply` to apply the changes.
+Run `terraform apply` to apply the changes.
 
 ## Variables 
 
