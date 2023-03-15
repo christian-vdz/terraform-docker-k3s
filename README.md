@@ -12,7 +12,7 @@ In order to run this Terraform code, a few things are required:
 
 Run `terraform init` to initialize the working directory and download all required providers or modules.
 
-Run `terraform plan` to preview the changes that Terraform will make if the `terraform apply` is ran.
+Run `terraform plan` to preview the changes that Terraform will make if you run the `terraform apply` command.
 
 Run `terraform apply` to apply the changes.
 
